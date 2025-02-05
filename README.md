@@ -1,2 +1,2 @@
 # Learn-SQL
-My first step tobe data analyst
+My first step to be a data analyst
